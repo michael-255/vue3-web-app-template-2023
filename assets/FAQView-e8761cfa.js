@@ -1,0 +1,1 @@
+import{b as n,o as e,e as a,f as o,I as r}from"./index-750d34c9.js";import{_ as t}from"./ResponsivePage.vue_vue_type_script_setup_true_lang-c9f55328.js";const m=n({__name:"FAQView",setup(c){return(s,_)=>(e(),a(t,{"banner-icon":o(r).HELP,"banner-title":"FAQ"},null,8,["banner-icon"]))}});export{m as default};
