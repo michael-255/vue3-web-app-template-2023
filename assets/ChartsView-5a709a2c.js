@@ -1,1 +1,0 @@
-import{n,p as e,q as a,t as r,I as t}from"./index-2f8171aa.js";import{_ as o}from"./ResponsivePage.vue_vue_type_script_setup_true_lang-ffc492e8.js";const m=n({__name:"ChartsView",setup(s){return(c,_)=>(e(),a(o,{"banner-icon":r(t).CHARTS,"banner-title":"Charts"},null,8,["banner-icon"]))}});export{m as default};
