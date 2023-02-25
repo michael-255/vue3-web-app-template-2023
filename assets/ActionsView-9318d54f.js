@@ -1,0 +1,1 @@
+import{q as n,t as e,v as o,A as a,I as t}from"./index-6ed77ae7.js";import{_ as r}from"./ResponsivePage.vue_vue_type_script_setup_true_lang-45771a6e.js";const p=n({__name:"ActionsView",setup(c){return(s,i)=>(e(),o(r,{"banner-icon":a(t).EDIT,"banner-title":"Actions"},null,8,["banner-icon"]))}});export{p as default};
